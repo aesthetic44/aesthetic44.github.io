@@ -1,4 +1,4 @@
-@import url(fonts.css);
+@import url(./fonts.css);
 * {
   margin: 0;
   padding: 0;
@@ -65,7 +65,7 @@ body > * {
 .about {
   padding-top: 185px;
   padding-bottom: 200px;
-  background-image: url(/img/BG.png);
+  background-image: url(../img/BG.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -280,7 +280,7 @@ body > * {
 .footer {
   padding-top: 40px;
   padding-bottom: 47px;
-  background-image: url(/img/Slice_8.png);
+  background-image: url(../img/Slice_8.png);
 }
 
 .footer__container {
