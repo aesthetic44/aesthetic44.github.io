@@ -376,8 +376,9 @@ body > * {
     padding-left: 30px;
   }
   .features__feature {
-    padding-right: 150px;
-    padding-left: 150px;
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-bottom: 30px;
   }
   .footer__container {
     -ms-flex-wrap: wrap;
@@ -385,6 +386,13 @@ body > * {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+  }
+}
+
+@media (max-width: 700px) {
+  .features__feature {
+    padding-right: 50px;
+    padding-left: 50px;
   }
 }
 /*# sourceMappingURL=style.css.map */
