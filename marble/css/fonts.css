@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf")
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Regular";
+    src: url("../fonts/RobotoCondensed-Regular.ttf")
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Bold";
+    src: url("../fonts/RobotoCondensed-Bold.ttf")
+}
+
+@font-face {
+    font-family: "RobotoSlab-Regular";
+    src: url("../fonts/RobotoSlab-Regular.ttf")
+}
+
+@font-face {
+    font-family: "RobotoSlab-Bold";
+    src: url("../fonts/RobotoSlab-Bold.ttf")
+}
+
+@font-face {
+    font-family: "SecularOne-Regular";
+    src: url("../fonts/SecularOne-Regular.ttf")
+}
