@@ -321,6 +321,9 @@ body > * {
     flex-wrap: wrap;
     justify-content: center;
   }
+  .footer__block{
+    margin-bottom: 15px;
+  }
 }
 @media (max-width: 700px) {
   .features__feature{

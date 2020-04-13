@@ -387,6 +387,9 @@ body > * {
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .footer__block {
+    margin-bottom: 15px;
+  }
 }
 
 @media (max-width: 700px) {
